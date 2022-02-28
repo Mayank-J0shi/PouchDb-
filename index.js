@@ -1,3 +1,5 @@
+//this is index.js file 
+
 var PouchDB = require("PouchDB");
 // var db = new PouchDB("mydb");
 
